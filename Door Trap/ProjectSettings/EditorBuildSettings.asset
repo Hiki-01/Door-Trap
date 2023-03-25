@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Sence/Start.unity
+    guid: 42fcd9313a9943c4d91bd12a7ad47b52
+  - enabled: 1
+    path: Assets/Sence/HTP.unity
+    guid: a383d429542c1cc4699b87b39e907f49
+  - enabled: 1
+    path: Assets/Sence/Level 1/Level 1.unity
+    guid: 5027ee6cb8c4bee409365646cc06cda5
+  - enabled: 1
+    path: Assets/Sence/Level 1/Fire.unity
+    guid: d4dac20bdbd533048a74697b3b72dcb2
+  - enabled: 1
+    path: Assets/Sence/Level 1/Thunder.unity
+    guid: d722e2978576c3044986959933193174
+  - enabled: 1
+    path: Assets/Sence/Level 1/Water.unity
+    guid: 32cdfb01c5322b24e9a1bc0c80c41f67
+  - enabled: 1
+    path: Assets/Sence/Level 2/Level 2.unity
+    guid: f994d952e133e234888d1b2087dafd87
+  - enabled: 1
+    path: Assets/Sence/Level 2/Bomb.unity
+    guid: ce92184967a10e749b10643a779d7397
+  - enabled: 1
+    path: Assets/Sence/Level 2/Sound.unity
+    guid: 7c3c6e93f4e69474582a1cf764fea3b3
+  - enabled: 1
+    path: Assets/Sence/Level 2/Teleport.unity
+    guid: 0d89c987697d7914aa25ff6964843db8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Sence/Level 4.unity
+    guid: c534547f414962b4bb3f0aaf4b3c48df
+  - enabled: 1
+    path: Assets/Sence/EndGame.unity
+    guid: ed4f863682aec8847be92f09efebb328
+  m_configObjects: {}
